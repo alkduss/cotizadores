@@ -1,0 +1,12 @@
+.tooltipster-noir {
+	border-radius: 3px; 
+	border: 3px solid #C3007A;
+	background: #fff;
+	color: #C3007A;
+}
+.tooltipster-noir .tooltipster-content {
+	font-family: 'Verdana';
+	font-size: 12px;
+	line-height: 16px;
+	padding: 8px 10px;
+}
